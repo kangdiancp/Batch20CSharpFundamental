@@ -1,0 +1,15 @@
+C:\bootcamp\Batch20\Batch20CSharpFundamental\Fundamental\bin\Debug\net6.0\Fundamental.exe
+C:\bootcamp\Batch20\Batch20CSharpFundamental\Fundamental\bin\Debug\net6.0\Fundamental.deps.json
+C:\bootcamp\Batch20\Batch20CSharpFundamental\Fundamental\bin\Debug\net6.0\Fundamental.runtimeconfig.json
+C:\bootcamp\Batch20\Batch20CSharpFundamental\Fundamental\bin\Debug\net6.0\Fundamental.dll
+C:\bootcamp\Batch20\Batch20CSharpFundamental\Fundamental\bin\Debug\net6.0\Fundamental.pdb
+C:\bootcamp\Batch20\Batch20CSharpFundamental\Fundamental\obj\Debug\net6.0\Fundamental.csproj.AssemblyReference.cache
+C:\bootcamp\Batch20\Batch20CSharpFundamental\Fundamental\obj\Debug\net6.0\Fundamental.GeneratedMSBuildEditorConfig.editorconfig
+C:\bootcamp\Batch20\Batch20CSharpFundamental\Fundamental\obj\Debug\net6.0\Fundamental.AssemblyInfoInputs.cache
+C:\bootcamp\Batch20\Batch20CSharpFundamental\Fundamental\obj\Debug\net6.0\Fundamental.AssemblyInfo.cs
+C:\bootcamp\Batch20\Batch20CSharpFundamental\Fundamental\obj\Debug\net6.0\Fundamental.csproj.CoreCompileInputs.cache
+C:\bootcamp\Batch20\Batch20CSharpFundamental\Fundamental\obj\Debug\net6.0\Fundamental.dll
+C:\bootcamp\Batch20\Batch20CSharpFundamental\Fundamental\obj\Debug\net6.0\refint\Fundamental.dll
+C:\bootcamp\Batch20\Batch20CSharpFundamental\Fundamental\obj\Debug\net6.0\Fundamental.pdb
+C:\bootcamp\Batch20\Batch20CSharpFundamental\Fundamental\obj\Debug\net6.0\Fundamental.genruntimeconfig.cache
+C:\bootcamp\Batch20\Batch20CSharpFundamental\Fundamental\obj\Debug\net6.0\ref\Fundamental.dll
